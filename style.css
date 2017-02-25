@@ -1,0 +1,20 @@
+button, div,form,input {
+      margin: 10px;
+    }
+
+.single-gif
+    {
+    	display:inline-block;
+    }
+
+.single-gif, img
+    {
+    	display:block;
+    }
+
+.single-gif, .gif-rating
+    {
+    	position:relative;
+    	top: -21px;
+    	text-shadow: 0 0 8px #FFFFFF, 0 0 8px #FFFFFF, 0 0 8px #FFFFFF, 0 0 8px #FFFFFF;
+    }
